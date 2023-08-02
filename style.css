@@ -45,7 +45,7 @@ h5 {
     flex-direction: row;
     justify-content: flex-start;
     width: 45%;
-    gap: 5%;
+    gap: 10%;
 }
 
 .card{
